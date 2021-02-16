@@ -1,2 +1,5 @@
 # Chrome-Passwords-Recover
-A python script allowing you to recover/backup the passwords you saved in Google Chrome
+
+This script can decrypt the passwords saved after version 80 of Chrome and won't work for passwords saved in earlier versions.
+
+Do not use this script to steal passwords, it is made to recover yours and only yours.
